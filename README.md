@@ -1,2 +1,2 @@
 # ochito
-LIttle roguelike browser python game
+Little roguelike browser Rust game
